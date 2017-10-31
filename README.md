@@ -1,3 +1,3 @@
 # hello-world
-Testing how this works.
+Testing if/how this works.
 Does it work?
